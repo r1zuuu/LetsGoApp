@@ -1,0 +1,4 @@
+6) Zabezpieczyć tylko dla admina path: "/service/admin/*"
+7) Zabezpieczyć tylko dla użytkowników zalogowanych endpointy (endpointy dashboard/admin)!!!
+
+zrobic item obrazek na cala szerokosc

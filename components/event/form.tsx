@@ -43,7 +43,7 @@ export default function Form() {
       date: (form.elements.namedItem("date") as HTMLInputElement).value,
       url: (form.elements.namedItem("url") as HTMLInputElement).value,
       price: (form.elements.namedItem("price") as HTMLInputElement).value,
-        
+
       city: selectedCity,
       eventType: selectedEvent,
     };

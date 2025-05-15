@@ -20,10 +20,6 @@ export default function Admin() {
         <Link href={"/service/admin/eventdelete"} className={btn_styles}>
           Usuń wydarzenie
         </Link>
-        <Link href={"/service/admin/eventedit"} className={btn_styles}>
-          Edytuj wydarzenie
-        </Link>
-
       </div>
     </div>
   );
